@@ -14,7 +14,7 @@ Dit is een mini level waar moet je alle coins collecten.
 <!-- Voeg hieronder een screenshot of een GIF toe van je werkende level.
      Sleep het bestand naar deze map en gebruik dan de syntax hieronder. -->
 
-![Mini-level preview](C:\Users\vika_\Documents\MA\Bewijzenmap\periode 1.1\unit 1\GD\Video.gif)
+![Mini-level preview](Video.gif)
 
 <!-- Tip: gebruik ShareX, LICEcap of de ingebouwde Xbox Game Bar (Win+G) om een GIF op te nemen. -->
 
