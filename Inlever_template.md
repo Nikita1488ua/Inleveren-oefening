@@ -2,10 +2,8 @@
 
 **Naam:** Nikita
 **Klas:** SD1B
-**Datum:** 23.20.3036 
+**Datum:** 23.20.3036
 **Les:** GDV Les 6
-
----
 
 ## Wat heb ik gemaakt?
 
@@ -44,7 +42,7 @@ void Update()
 
 <!-- Welk object heeft een collider of trigger, en wat gebeurt er? -->
 
-...
+Als de speler raakt een munt krijgt hij 1 point health
 
 ```csharp
 // Plak hier de OnCollisionEnter/OnTriggerEnter code die je hebt gebruikt.
@@ -66,13 +64,12 @@ private void OnTriggerEnter(Collider other)
  }
 }
 ```
-Als de speler raakt een munt krijgt hij 1 point health
 
 ## Logica met `if` of `switch`
 
 <!-- Beschrijf kort welke keuze je hebt gemaakt (bijv. sleutel → deur open). -->
 
-...
+Alse alle muntjes collect jij win.
 
 ```csharp
 // Plak hier het stuk code met jouw if- of switch-logica.
@@ -83,35 +80,28 @@ if ()
 }
 ```
 
-Alse alle muntjes collect jij win.
-
 ## Eigen extra idee
 
 <!-- Wat is jouw eigen extra feature? Beschrijf wat het doet en hoe je het hebt gebouwd. -->
 
-...
+Ik geef textures naar player en coins, camera gaat met de speler samen.
 
 ```csharp
 // Optioneel: plak hier de bijbehorende code.
 
 ```
-Ik geef textures naar player en coins, camera gaat met de speler samen.
-
-
 ## Evaluatie
 
 ### Wat ging goed? en waarom?
 
 <!-- Wat lukte je makkelijk of waar ben je trots op? -->
 
-...
 Alles ging goed.
 
 ### Wat vond je lastig? en waarom?
 
 <!-- Waar liep je tegenaan? Hoe heb je het opgelost (of niet)? -->
 
-...
 Camera zetten
 
 ### Wat zou je een volgende keer anders doen?
